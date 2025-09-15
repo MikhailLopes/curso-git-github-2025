@@ -6,3 +6,5 @@ git log -> mostra todo o histórico de commit
 
 
 Work Flow
+
+1 - localize a pasta 
