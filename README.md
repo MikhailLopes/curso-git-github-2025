@@ -8,6 +8,7 @@ Confira as aulas no YouTube.
 
 Siga para mais dicas ...
 
+Além do Youtube acompanhe o Téo
 
 ## participantes
 
